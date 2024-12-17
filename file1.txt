@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1321popopisa12312312Source file1
+=======
+12312312Source file1 oyyyymay
+>>>>>>> 6d72944 (vetka)
